@@ -1,8 +1,9 @@
 # Curs Vue
 
-## Lectures introductories sobre js
-- Explicació [mòduls ES6](https://lenguajejs.com/javascript/caracteristicas/modulos-es6/)
-- ES6, [noves declaracions](https://www.adictosaltrabajo.com/2018/05/08/es6-el-remozado-javascript-parte-ii-funciones-objetos-y-arrays/)
+## Canvis significatius introduits en el ES6
+- [Mòduls](https://lenguajejs.com/javascript/caracteristicas/modulos-es6/)
+- [Noves declaracions](https://www.adictosaltrabajo.com/2018/05/08/es6-el-remozado-javascript-parte-ii-funciones-objetos-y-arrays/)
+- [Template literals](https://fullstackseries.com/es6-template-literals/)
 
 ## Suport
 - [Webpack](https://webpack.js.org/)
@@ -10,3 +11,4 @@
 - [Bulma CSS](https://bulma.io/)
 - [Vuejs](https://vuejs.org/)
 - [Vue-CLI](https://cli.vuejs.org/)
+- [BABEL](https://babeljs.io/)
